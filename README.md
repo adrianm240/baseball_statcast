@@ -18,3 +18,4 @@
   - ADABoost
 
 ## Database
+- We intend on using Pandas as our database but pgAdmin if need be.
