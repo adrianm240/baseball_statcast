@@ -21,3 +21,12 @@
 
 ## Database
 - We intend to load our data into a PostGRES SQL database in pgAdmin.
+
+## Dashboard
+- We will be aggregating our data from our Pandas database into Tableau where we will create interactive environment that will display filters and visualizations for users to "play with".
+- Our dashboard will show players inducted into the Hall of Fame by: 
+  - Position
+  - Decade
+  - Team
+  - Conference
+  - Height/Weight
