@@ -16,6 +16,11 @@
 - Random Over Sampler
 - Random Under Sampler
 - SMOTE
+
+- Data Preprocessing: We ingested our raw data into a Pandas dataframe where we then cleaned the data by removing the null values and columns that didn't apply to our dataset.
+- Feature Engineering: We kept all of the hitting columns (games played, at bats, homeruns, etc.). We also dropped all of the pitching data as it did not apply to our prediction/question. Following that, we dropped other columns that are not relevant to predicting Hall of Fame status such as birthdates, birth country, death country, and first/last names.
+- Description of how data was split and tested: We split the data into features and our target.
+- Current Accuracy Score: *screenshot of classification report*
   *Insert photo of score for each model*
 
 ## Database
@@ -31,3 +36,4 @@
   - Conference
   - Height/Weight
    *Insert photos of custom searches*
+- UPDATE COMING SUNDAY NIGHT ON IMAGES
