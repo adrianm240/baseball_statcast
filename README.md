@@ -25,15 +25,42 @@
 
 ## Database
 - We loaded our data into a PostGRES SQL database in pgAdmin.
-  *Insert photos*
+
+### Hall of Fame Table
+![](Resources/Halloffame%20Table%20pgAdmin.png)
+
+### All Star Table
+![](Resources/All%20Star%20Full%20Table%20pgAdmin%20.png)
+
+### Awards Table
+![](Resources/Awardsplayers%20Table%20pgAdmin.png)
+
+### Batting Table
+![](Resources/Batting%20Table%20pgAdmin.png)
+
+### Players Table
+![](Resources/People%20Table%20pgAdmin.png)
 
 ## Dashboard
-- We aggregated our data from our Pandas database into Tableau where we created an interactive environments to display visualizations that contain filters for users to narrow their search.
-- Our dashboard will show players inducted into the Hall of Fame by: 
-  - Position
-  - Decade
-  - Team
-  - Conference
-  - Height/Weight
-   *Insert photos of custom searches*
-- UPDATE COMING SUNDAY NIGHT ON IMAGES
+- We aggregated our data from our Pandas database into Tableau where we created the following interactive environments to display visualizations that contain filters for users to narrow their search:
+
+  ### All Star Games Played
+  ![](Resources/Number%20of%20All%20Star%20Games%20Played.png)
+  
+  ### Number of Hall of Famers
+  ![](Resources/Number%20of%20HOF.png)
+  
+  ### Batters by Hand
+  ![](Resources/Batting%20Hand.png)
+  
+  ### Hall of Famers by Award
+  ![](Resources/HOF%20Awards.png)
+  
+  ### Hall of Famers Home Runs
+  ![](Resources/Hall%20Of%20Famers%20Total%20Home%20Runs.png)
+  
+  ### MLB Debut
+  ![](Resources/MLB%20Debut.png)
+  
+  ### Throwing Hand
+  ![](Resources/Throwing%20Hands.png)
